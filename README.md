@@ -7,8 +7,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ## Flix Part 1
 
-### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
+![walkthrough](https://user-images.githubusercontent.com/77946229/155654165-d4d4a51a-db24-4bc4-b1bf-fd97520b9628.gif)
+
 
 #### REQUIRED (10pts)
 - [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
